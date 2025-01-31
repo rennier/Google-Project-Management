@@ -63,28 +63,6 @@ Developing effective stakeholder reports by applying storytelling strategies to 
 Preparing for job interviews and gain a competitive edge by learning AI skills you can apply to your work.<br>
 
 
-
-**7.Capstone: Applying Project Management in the Real World<br>**
-Explaining how the Python programming language is used in cybersecurity<br>
-Creating new, user-defined Python functions<br>
-Using regular expressions to extract information from text<br>
-Practicing debugging code<br>
-**<em>Hands-on, practice-based assessments included:</em>** 
-  <li>Update Files through a Python Algorithm✔️</li>
-  <br>
-
-**This course taught me new technical skills in:**
-<br>
-<li>Risk management</li>
-<li>Threat analysis</li>
-<li>Network security</li>
-<li>Incident response</li>
-<li>Network protocol analyzers (Wireshark and tcpdump)</li>
-<li>SIEM Tools (Chronicle and Splunk)</li>
-<li>IDS/IPS Tools</li>
-<li>Firewalls</li>
-<br>
-
 **Directory Structure<br>**
 <h1></h1>
 The repository follows a directory structure that separates portfolio activities by chapters:
