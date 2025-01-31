@@ -2,7 +2,7 @@
 
 Certificate:
 
-<img src="Google Project Management Certificate-Rennie Ramlochan .jpeg" alt="View certificate for Rennie Ramlochan, Google Cybersecurity, offered through Coursera. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to Identifying common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."/>
+<img src="https://github.com/rennier/Google-Project-Management/blob/f187742063285d85e73eaf1b205da4a7c3dc1164/Google%20Project%20Management%20Certificate-Rennie%20Ramlochan%20.jpeg" alt="View certificate for Rennie Ramlochan, Google Project Management, offered through Coursera. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to Identifying common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."/>
 
 **Certificate for Rennie Ramlochan, Google Project Management, offered through Coursera.** 
 
