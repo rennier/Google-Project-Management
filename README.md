@@ -35,14 +35,14 @@ Evaluating various project management tools to meet project needs. <br>
 Describing the components of the project planning phase and their significance.<br>
 Identifing tools and best practices to build a project plan and risk management plan.<br>
 Describing how to estimate, track, and maintain a budget.<br>
-Drafting a communication plan and explain how to manage it.<br>
+Drafting a communication plan and explain how to manage it.<br><br>
 **<em>Boost your project management skills with AI :</em>**
   <li>Use AI to create a project charter</li>
- <li>Identify potential project risks with gen AI</li
- <li>Use AI to improve project communications</li
- <li>Execute meetings more efficiently with AI</li
- <li>Plan Sprint retrospectives using AI</li
- <br>
+ <li>Identify potential project risks with gen AI</li>
+ <li>Use AI to improve project communications</li>
+ <li>Execute meetings more efficiently with AI</li>
+ <li>Plan Sprint retrospectives using AI</li>
+ <br><br>
 
 **4.Project Execution: Running the Project.<br>**
 Implementing the key quality management concepts of quality standards, quality planning, quality assurance, and quality control.<br>
@@ -60,8 +60,7 @@ Explaining how to coach an Agile team and help them overcome challenges.<br>
 Developing a comprehensive project charter using research and relevant documentation.<br>
 Determining quality standards and evaluate against those standards to ensure that the project is achieving the required level of quality.<br>
 Developing effective stakeholder reports by applying storytelling strategies to describe data.<br>
-Preparing for job interviews and gain a competitive edge by learning AI skills you can apply to your work.<br>
-
+Preparing for job interviews and gain a competitive edge by learning AI skills you can apply to your work.
 
 **Directory Structure<br>**
 <h1></h1>
